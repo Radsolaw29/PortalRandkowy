@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using PortalRandkowy.API.Controllers.Models;
+using PortalRandkowy.API.Models;
 
 namespace PortalRandkowy.API.Data
 {
